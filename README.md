@@ -15,7 +15,6 @@ Currently, I am developing the **Proactive AI Hub**—a futuristic, locally runn
 - Communication: While reserved in casual settings, I am direct and collaborative in work/project environments
 
 **Career Goals:**
-- Short-term: Complete and launch the Proactive AI Hub as a startup
 - Long-term: Build a career in AI/ML, agent systems, or web development, with openness to SDE roles if entrepreneurship doesn’t pan out
 
 **Portfolio:** [prajyoth-portfolio.netlify.app](https://prajyoth-portfolio.netlify.app/)  
