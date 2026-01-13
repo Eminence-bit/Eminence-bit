@@ -79,6 +79,11 @@ Focused on roles in:
 - Full-Stack Engineering with AI components
 
 ---
+## 🧱 Foundations
+
+- **C Programming & Assembly Language (NPTEL)** — Strong grounding in memory management, control flow, and machine-level execution  
+- **Introduction to Large Language Models (NPTEL)** — Foundations of modern LLM architectures, training paradigms, and inference concepts
+
 
 ## 🌐 Links
 
