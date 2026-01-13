@@ -1,24 +1,89 @@
-I am G Prajyoth, a final year engineering student specializing in AI, Machine Learning, and Web Development, passionate about building intelligent agents and next-gen productivity tools. My most notable project is a **Single Image 3D Reconstruction** system ([repo link](https://github.com/Eminence-bit/single-image-3d-reconstruction)), which demonstrates my ability to implement advanced computer vision and deep learning techniques in Python. For a deep dive, please review my [project README](https://github.com/Eminence-bit/single-image-3d-reconstruction/blob/main/README.md).
+# G Prajyoth
 
-Currently, I am developing the **Proactive AI Hub**—a futuristic, locally running AI agent platform designed to anticipate user needs and unify productivity across code, emails, files, and research. The system uses a Base Agent for reasoning and multiple Sub-Agents, each fine-tuned for specific tools (e.g., Microsoft To Do, Gmail, GitHub, Google Drive, Notion). The platform prioritizes privacy (local data storage), extensibility (via MCP servers), and user engagement (gamified features, sci-fi interface).
+**AI / ML Engineer | Algorithmic Modeling | Full-Stack Systems**
 
-**Key Technologies & Protocols:**
-- Languages: Python, Java, C, HTML, CSS, JavaScript
-- Databases: MongoDB, MySQL
-- Protocols: A2A, ACP, MCP (built several MCP servers)
-- AI/ML: LLM fine-tuning (Ollama, Huggingface), single-image 3D reconstruction, agent architectures
-- Web: React, Vite
+I design and build machine-learning systems that combine **algorithmic rigor, real-world data, and deployable software**.  
+My work spans research-inspired ML models, predictive analytics on real datasets, and full-stack AI applications.
 
-**Experience:**
-- Virtual Internships: Java Full Stack, Google Generative AI (AICTE) with hands-on labs and foundational exposure
-- Hackathons: Multiple participations, strong team-working skills
-- Communication: While reserved in casual settings, I am direct and collaborative in work/project environments
+---
 
-**Career Goals:**
-- Long-term: Build a career in AI/ML, agent systems, or web development, with openness to SDE roles if entrepreneurship doesn’t pan out
+## 🔬 Selected Work
 
-**Portfolio:** [prajyoth-portfolio.netlify.app](https://prajyoth-portfolio.netlify.app/)  
-**LinkedIn:** [Prajyoth Gandam](https://www.linkedin.com/in/prajyoth-gandam-0b9a50323/)
+### 🧠 Adaptive Knowledge-Guided Correction (AKGC)
+**Focus:** Algorithmic ML · Model correction · Research-driven design  
+**What it demonstrates:** Translating theoretical ML concepts into practical, working pipelines that improve model robustness through adaptive feedback and knowledge guidance.  
+**Skills signaled:** Python, ML theory, model evaluation, algorithmic reasoning  
+
+🔗 Repo: https://github.com/Eminence-bit/Adaptive-Knowledge-Guided-Correction_
+
+---
+
+### 🏔️ Rockfall Prediction Model
+**Focus:** Applied machine learning · Real-world predictive modeling  
+**What it demonstrates:** End-to-end ML workflow on environmental and geospatial data, addressing a safety-critical prediction problem.  
+**Skills signaled:** Data preprocessing, feature engineering, modeling, evaluation, domain awareness  
+
+🔗 Repo: https://github.com/Eminence-bit/Rockfall-Prediction-Model
+
+---
+
+### 🌐 Seeker Nexus AI
+**Focus:** Full-stack AI system · Practical deployment  
+**What it demonstrates:** Integrating AI/ML logic into a usable software system, bridging backend intelligence with frontend experience.  
+**Skills signaled:** System design, backend + frontend integration, applied AI delivery  
+
+🔗 Repo: https://github.com/Eminence-bit/seeker-nexus-ai
+
+---
+
+## 🧩 Technical Capabilities
+
+**AI & Machine Learning**
+- Algorithmic ML systems
+- Model correction and evaluation
+- Predictive modeling
+- ML experimentation and pipelines
+
+**Languages**
+- Python, Java, C, JavaScript, HTML, CSS
+
+**Web & Systems**
+- React, Vite
+- Backend integration
+- Full-stack application development
+
+**Databases**
+- MongoDB, MySQL
+
+---
+
+## 🎓 Experience
+
+- **AICTE Virtual Internships**
+  - Java Full Stack
+  - Google Generative AI  
+  Hands-on labs with exposure to real development workflows and AI fundamentals.
+
+- **Hackathons**
+  - Multiple participations with strong emphasis on engineering execution and collaboration.
+
+I am reserved in casual settings but **direct, technical, and collaborative** in project and work environments.
+
+---
+
+## 🎯 Career Direction
+
+Focused on roles in:
+- AI / Machine Learning Engineering
+- Algorithmic & Applied ML Systems
+- Full-Stack Engineering with AI components
+
+---
+
+## 🌐 Links
+
+- **Portfolio:** https://prajyoth-portfolio.netlify.app/  
+- **LinkedIn:** https://www.linkedin.com/in/prajyoth-gandam-0b9a50323/
 
 ###
 
