@@ -65,7 +65,7 @@ Currently, I am developing the **Proactive AI Hub**—a futuristic, locally runn
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/prajyoth-gandam-0b9a50323/" target="_blank">
+  <a href="https://www.linkedin.com/in/prajyoth-gandam-86005a395/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/22p61a6657" target="_blank">
