@@ -22,7 +22,7 @@ Modern LLMs hallucinate in ways that are not easily addressed by fine-tuning alo
 
 **Skills signaled:** Python, ML theory, model evaluation, algorithmic reasoning, system design  
 
-🔗 Repo: https://github.com/Eminence-bit/Adaptive-Knowledge-Guided-Correction_
+🔗 Repo: <https://github.com/Eminence-bit/Adaptive-Knowledge-Guided-Correction_>
 
 ---
 
